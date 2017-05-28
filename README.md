@@ -1,1 +1,0 @@
-BMP parser and Viewer
